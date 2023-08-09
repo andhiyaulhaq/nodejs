@@ -1,0 +1,10 @@
+20230808	20:49:27	x-4KQcLK_YFjIqOV	TypeError: authHeader?.startWith is not a function
+20230808	20:51:55	qNMtzJLkS9s79dP4	TypeError: Object.value is not a function
+20230808	20:54:54	oeYKdFNaPPyyF76P	TypeError: Cannot read properties of undefined (reading 'username')
+20230808	21:07:41	6mBDF9HGxo9R6P4A	TypeError: Cannot read properties of undefined (reading 'username')
+20230808	21:08:47	oOXQxJTcmEeBGkH-	TypeError: Cannot read properties of undefined (reading 'username')
+20230808	21:10:45	ZN7E6we7l5wUaiS2	TypeError: Cannot read properties of undefined (reading 'username')
+20230808	21:19:32	QY_7OWWCzdjtdrUF	TypeError: Cannot read properties of undefined (reading 'username')
+20230808	21:20:00	zcmtzTHcvPbsBc9o	TypeError: Cannot read properties of undefined (reading 'username')
+20230808	21:20:09	dYST9aPuFh93KjCj	TypeError: Cannot read properties of undefined (reading 'username')
+20230808	21:20:42	YrfCF8LpkzhTpx27	TypeError: Cannot read properties of undefined (reading 'username')
